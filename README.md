@@ -1,6 +1,7 @@
 # MobILE-NeurIPS2021
 This is the code repository for MobILE: Model-Based Imitation Learning from Observation Alone (NeurIPS 2021)
 
+![figure](https://github.com/rahulkidambi/MobILE-NeurIPS2021/blob/main/figures/readme_fig.png)
 
 Link to pdf: https://arxiv.org/abs/2102.10769
 
