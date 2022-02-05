@@ -30,7 +30,7 @@ This repository supports 2 modified MuJoCo environments. They are
 - Hopper (Hopper-v6, deterministic)
 - Walker2d (Walker2d-v4, deterministic)
 
-If you would like to add an environment, register the environment in `/milo/milo/gym_env/__init__.py` according to [OpenAI Gym](http://gym.openai.com/docs/#environments) instructions.
+If you would like to add an environment, register the environment in `/mbil/mbil/gym_env/__init__.py` according to [OpenAI Gym](http://gym.openai.com/docs/#environments) instructions.
 
 ## Dataset Format
 In the `data` directory, place the expert dataset in the `data/expert_data` directory. Note to modify the dataset format please see `mbil/utils/util.py`. Generally we only expect a tuple of state and next state from the expert demonstrations. 
