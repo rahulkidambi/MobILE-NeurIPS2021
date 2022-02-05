@@ -1,0 +1,8 @@
+mujoco-py @ git+https://github.com/openai/mujoco-py@f1312cceeeebbba17e78d5d77fbffa091eed9a3a
+numpy==1.20.3
+Pillow==7.2.0
+scipy==1.6.3
+tabulate==0.8.9
+tensorboard==2.5.0
+torch==1.8.1
+tqdm==4.60.0
